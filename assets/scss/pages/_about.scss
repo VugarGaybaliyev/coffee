@@ -1,0 +1,38 @@
+.aboutItem {
+    display: flex;
+    padding: 40px 100px 100px;
+    .itemLeft{width: 50%;}
+    .itemRight {width: 50%;
+    margin: 40px 15px 0 114px;
+    h6 {
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        color: #b68834;
+        font-size: 12px;
+        font-weight: 300
+    }
+    h2 {
+        font-size: 36px;
+        padding: 0 0 20px;
+    }
+    .lorem{
+        color: gray;
+        margin: 20px 0;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    span {font-size: 14px;
+
+    }
+}
+}
+
+
+
+
+.itemLeft img {
+    width: 570px;
+    height: 350px;
+}
+
+
